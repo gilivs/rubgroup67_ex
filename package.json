@@ -24,5 +24,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage": "http://proj.ruppin.ac.il/bgrup67/react",
+  "devDependencies": {
+    "terser": "^3.14.1"
+  }
 }
